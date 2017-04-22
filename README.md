@@ -7,8 +7,8 @@
 run.py是GUI界面<br>
 transmiter.py是主转发程序<br>
 testclient.py是用于测试的客户端程序<br>
-testserver.py是用于测试的服务端程序<br>
-#使用方法<br><br>
+testserver.py是用于测试的服务端程序<br><br>
+#使用方法<br>
 从命令行启动GUI<br>
 python run.py<br>
 从命令行启动非GUI<br>
